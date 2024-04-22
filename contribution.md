@@ -205,8 +205,8 @@ $ brew install git
 
 ### مصادر إضافية للاستزادة إن واجهتك مشكلة
 
-[## Using Obsidian Git for the tech unfamiliar](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md)
-[The Easiest Way to Setup Obsidian Git (4 Minutes)](https://www.youtube.com/watch?v=5YZz38U20ws)
+[Using Obsidian Git for the tech unfamiliar](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md)
+</br>[The Easiest Way to Setup Obsidian Git (4 Minutes)](https://www.youtube.com/watch?v=5YZz38U20ws)
 
 
 [<h4 style="text-align: left;">العودة إلى الفهرس</h4>](README.md)
